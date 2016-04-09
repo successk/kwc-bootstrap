@@ -1,0 +1,26 @@
+{
+  "name": "kwc-bootstrap",
+  "version": "1.0.0",
+  "description": "Bootstrap project to create web components",
+  "license": "MIT",
+  "main": "kwc-bootstrap.html",
+  "keywords": [
+    "polymer",
+    "web-component",
+    "bootstrap"
+  ],
+  "ignore": [
+    "**/.*",
+    "bower_components",
+    "node_modules",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.0.0"
+  },
+  "homepage": "https://github.com/successk/kwc-bootstrap",
+  "authors": [
+    "Gaëtan Rizio <gaetan@rizio.fr>"
+  ]
+}
